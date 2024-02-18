@@ -1,1 +1,2 @@
-# Brain-Computer-Interface-Motion-Imagination
+# 脑机接口——运动想象分类
+#### 基于脑电波EEG信号数据构建多层一维卷积神经网络分类模型
